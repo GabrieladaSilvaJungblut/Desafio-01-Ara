@@ -16,8 +16,8 @@ output: html_document
  \
 1. Escala de Eixo Y: O intervalo é muito pequeno, variando apenas entre 3,9 e 4,8, o que minimiza a percepção das diferenças entre os anos. Mesmo com o aumento nas taxas de homicídios de mulheres, como o crescimento de 8,8% de 2003 a 2013, essa escolha de escala faz as mudanças parecerem muito pequenas. Se a escala fosse expandida, por exemplo, começando em 0 ou 3,0, as variações anuais seriam mais evidentes, proporcionando uma percepção mais clara do aumento ao longo do tempo. Isso ajudaria a destacar melhor a gravidade do problema.
 
+![](images/fc5afe31-f2ee-4ff8-917c-6483eb6fc131.png)
+
 2\. Comparação por Estados: Incluir as taxas de homicídio de mulheres por estado em 2013, como visto no estudo. 
 
-3\. Contexto de Dados: O gráfico não mostra intervalos de confiança ou variações regionais, que poderiam enriquecer a análise. Intervalos de confiança, por exemplo, mostrariam a incerteza dos dados, fornecendo uma margem de erro nas taxas de homicídios, ajudando a avaliar a precisão dos números apresentados. Já as variações regionais permitiriam comparar estados ou regiões diferentes, destacando onde os homicídios são mais ou menos frequentes, em vez de mostrar apenas a média nacional. Isso agregaria mais profundidade e ajudaria a entender o fenômeno em diferentes contextos geográficos. 
-
-4\. Contexto Global: Adicionar uma comparação internacional, destacando que o Brasil tem a 5ª maior taxa de homicídios de mulheres no mundo, segundo a OMS.  
+![](images/a54f83df-9382-4d8a-92b2-5a105f9052cb.png)
