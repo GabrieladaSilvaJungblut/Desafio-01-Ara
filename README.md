@@ -24,5 +24,8 @@ Escala de Eixo Y: O intervalo é muito pequeno, variando apenas entre 3,9 e 4,8,
 
 ![](https://cdn.howmuch.net/content/images/1600/voronoi-bitcoin_2-7b4d.png)
 
+<!-- gráfico que não existe -muito difícil fazer a mensuração exata das porcentagens pela visualização, poluído, complexo-, erro na escrita - adresses own btc em vez de btc are owned by adresses-,  a flecha embaixo não indicando nada, etc...
+Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/ -->
+
 
 
