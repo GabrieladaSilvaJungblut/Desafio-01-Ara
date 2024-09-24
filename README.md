@@ -18,6 +18,4 @@ output: html_document
 
 ![](images/fc5afe31-f2ee-4ff8-917c-6483eb6fc131.png)
 
-2\. Comparação por Estados: Incluir as taxas de homicídio de mulheres por estado em 2013, como visto no estudo. 
 
-![](images/a54f83df-9382-4d8a-92b2-5a105f9052cb.png)
