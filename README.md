@@ -2,7 +2,7 @@
 
 ---
 title: "Desafio 01"
-author: "Gabriela Jungblut, Julia Zorzo e Manuella Kauany"
+author: "Gabriela Jungblut, Júlia Zorzo e Manuella Kauany"
 date: "2024-09-24"
 output: html_document
 ---
