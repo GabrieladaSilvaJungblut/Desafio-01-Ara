@@ -9,19 +9,22 @@ output: html_document
 
 ## Exemplos de Gráficos Errados ou Inefetivos
 
+***
+
 ### Exemplo 1
 
-![](https://s2.glbimg.com/0GgPNg_c3HCj150DMgHMT9E23Xs=/s.glbimg.com/jo/g1/f/original/2015/11/09/homicidios-de-mulheres.jpg){width="541"}
+![](https://s2.glbimg.com/0GgPNg_c3HCj150DMgHMT9E23Xs=/s.glbimg.com/jo/g1/f/original/2015/11/09/homicidios-de-mulheres.jpg)
 
 [G1.Globo](https://g1.globo.com/politica/noticia/2015/11/503-dos-homicidios-de-mulheres-no-brasil-sao-cometidos-por-familiares.html)
 
  
-Trechos da matéria para que seja amelhor o entendimento do que está sendo apresentado no gráfico: 
+Trechos da matéria para que seja melhorado o entendimento do que está sendo apresentado no gráfico: 
 
-"Entre 2003 e 2013, o número de homicídios de mulheres passou de 3.937 para 4.762, aumento de 21% no período. As 4.762 mortes em 2013, último ano do estudo, representam uma média de 13 mulheres assassinadas por dia."
+"Entre 2003 e 2013, o número de homicídios de mulheres passou de 3.937 para 4.762, um aumento de 21% no período. As 4.762 mortes em 2013, último ano do estudo, representam uma média de 13 mulheres assassinadas por dia."
 
 "Levando em consideração o crescimento da população feminina entre 2003 e 2013 (passou de 89,8 milhões para 99,8 milhões), a taxa de homicídio de mulheres saltou de 4,4% em 2003 para 4,8% em 2013, aumento de 8,8% no período."
-Para melhor entendimento, entrar no link abaixo do gráfico. 
+
+Para melhor entendimento, acesse o link abaixo do gráfico. 
 
 O gráfico apresenta algumas ausências que dificultam a interpretação imediata e precisa dos dados. Primeiramente, ele se refere ao Brasil, no entanto, essa informação não está claramente indicada no título, sendo recomendável incluir essa referência para garantir uma melhor compreensão. Além disso, o gráfico carece de legendas claras e definição dos eixos. No eixo Y (vertical), as taxas de homicídio estão representadas por números em vermelho, mas não há indicação explícita de que esses números correspondem a 'homicídios por 100 mil mulheres'. O eixo X (horizontal) parece indicar os anos, mas também poderia ser mais explicitamente rotulado. 
 
@@ -30,6 +33,8 @@ Mesmo com o aumento nas taxas de homicídios de mulheres, como o crescimento de 
 Segue novo gráfico readequado:
 
 ![](images/fc5afe31-f2ee-4ff8-917c-6483eb6fc131.png)
+
+***
 
 ### Exemplo 2
 
@@ -53,6 +58,8 @@ Segue novo gráfico readequado:
 <!-- 
 Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/ -->
 
+***
+
 ### Exemplo 3
 
 ![](https://multimidia.gazetadopovo.com.br/media/info/2018/201806/doria/doria-gif-0.png)
@@ -66,6 +73,8 @@ Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https:/
    2) Transformar o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.
 
 ![](https://drive.google.com/uc?export=view&id=1HLsalPDbCIarwyMTvEpwkyWcDTNfLt8E)
+
+***
 
 <!--
 Referências:
