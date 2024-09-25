@@ -65,6 +65,16 @@ Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https:/
    1) Igualando as barras de porcentagens dos votos com a escala apresentada.
    2) Transformar o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.
 
+![](https://drive.google.com/uc?export=view&id=1HLsalPDbCIarwyMTvEpwkyWcDTNfLt8E)
+
+<!--
+Referências:
+https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/05/30/psdb-sp-divulga-grafico-desproporcional-de-doria-e-tira-do-ar-apos-criticas.htm
+https://www1.folha.uol.com.br/poder/2018/05/grafico-mostra-barra-distorcida-de-intencoes-de-voto-em-doria-e-e-retirado-por-psdb.shtml
+https://especiais.gazetadopovo.com.br/eleicoes/2018/pesquisas-eleitorais/ibope/pagina-oficial-psdb-sp-divulga-grafico-distorcido-de-pesquisa-com-doria/
+https://sul21.com.br/ta-na-rede/2018/05/doria-publica-grafico-com-proporcoes-absurdas-para-favorecer-sua-campanha-e-vira-piada/
+
+
 
 
 
