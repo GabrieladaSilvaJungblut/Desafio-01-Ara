@@ -53,5 +53,18 @@ Segue novo gráfico readequado:
 <!-- 
 Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/ -->
 
+### Exemplo 3
+
+![](https://multimidia.gazetadopovo.com.br/media/info/2018/201806/doria/doria-gif-0.png)
+
+   A imagem acima foi uma publicação realizada pelo perfil oficial do PSDP no dia 29/05/2018 enquanto estava ocorrendo as campanhas políticas para governador do estado de São Paulo. Ao analisarmos o gráfico, é possível indentificar pontos inadequados e que podem influenciar de forma equivocada o público.
+   1) As barras com as porcentagens de favoritismo para ser eleito não condiz com a escala apresentada no eixo Y, onde por mas que o candidato em questão ( João Doria ) estivesse de fato com maior porcentagem em relação aos demais candidatos com 22% o gráfico representa como chegando a 90%, permanecendo inclusive na frente dos 'Votos Branco/Nulo', ao qual representam 40%. Os outros dados também se encontram distoantes ao seu valor corretona barra da escala.
+   2) Outro ponto ao qual poderia ser aprimorado são as legendas que indentificam a porcentagem e nome dos participantes, levando em consideração que se encontram custosos a enxergar de forma adequada.
+
+   No geral pode ser considerado um gráfico simples de se concertar e o tornar mais funcional:
+   1) Igualando as barras de porcentagens dos votos com a escala apresentada.
+   2) Transformar o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.
+
+
 
 
