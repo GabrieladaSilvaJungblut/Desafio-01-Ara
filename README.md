@@ -19,6 +19,7 @@ output: html_document
 Trechos da matéria para que seja amelhor o entendimento do que está sendo apresentado no gráfico: 
 
 "Entre 2003 e 2013, o número de homicídios de mulheres passou de 3.937 para 4.762, aumento de 21% no período. As 4.762 mortes em 2013, último ano do estudo, representam uma média de 13 mulheres assassinadas por dia."
+
 "Levando em consideração o crescimento da população feminina entre 2003 e 2013 (passou de 89,8 milhões para 99,8 milhões), a taxa de homicídio de mulheres saltou de 4,4% em 2003 para 4,8% em 2013, aumento de 8,8% no período."
 Para melhor entendimento, entrar no link abaixo do gráfico. 
 
