@@ -73,7 +73,7 @@ Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https:/
    **1) Igualando as barras de porcentagens dos votos com a escala apresentada.**
    **2) Transformando o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.**
 
-![](https://drive.google.com/uc?export=view&id=1HLsalPDbCIarwyMTvEpwkyWcDTNfLt8E)
+![](https://drive.google.com/uc?id=19-yhYcao8JMv7_dJ_nc8nqf46Y0eAxZ5)
 
 ***
 
