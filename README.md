@@ -26,9 +26,9 @@ Trechos da matéria para que seja melhorado o entendimento do que está sendo ap
 
 Para melhor entendimento, acesse o link abaixo do gráfico. 
 
-O gráfico apresenta algumas ausências que dificultam a interpretação imediata e precisa dos dados. Primeiramente, ele se refere ao Brasil, no entanto, essa informação não está claramente indicada no título, sendo recomendável incluir essa referência para garantir uma melhor compreensão. Além disso, o gráfico carece de legendas claras e definição dos eixos. No eixo Y (vertical), as taxas de homicídio estão representadas por números em vermelho, mas não há indicação explícita de que esses números correspondem a 'porcentagem de homicídios por 100 mil mulheres'. O eixo X (horizontal) parece indicar os anos, mas também poderia ser mais explicitamente rotulado. 
+O gráfico apresenta algumas ausências que dificultam a interpretação imediata e precisa dos dados. Primeiramente, **ele se refere ao Brasil**, no entanto, **essa informação não está claramente indicada no título**, sendo recomendável incluir essa referência para garantir uma melhor compreensão. Além disso, **o gráfico carece de legendas claras e definição dos eixos**. No eixo Y (vertical), as taxas de homicídio estão representadas por números em vermelho, mas não há indicação explícita de que esses números correspondem a 'porcentagem de homicídios por 100 mil mulheres'. O eixo X (horizontal) parece indicar os anos, mas também poderia ser mais explicitamente rotulado. 
 
-Mesmo com o aumento nas taxas percentuais de homicídios de mulheres, como o crescimento de 8,8% de 2003 a 2013, a falta de ajuste adequado da escala faz com que as mudanças pareçam menores do que são. Se o eixo y começar em 0, as variações anuais são mais evidentes, proporcionando uma percepção um pouco mais clara desse aumento ao longo do tempo, que seria mais bem apresentado e evidenciado se fosse contabilizado o aumento da população feminina no país, destacando melhor a gravidade do problema.
+Mesmo com o aumento nas taxas percentuais de homicídios de mulheres, como o crescimento de 8,8% de 2003 a 2013, a **falta de ajuste adequado da escala** faz com que as mudanças pareçam menores do que são. Se o **eixo y começar em 0**, as variações anuais serão mais evidentes, proporcionando uma percepção um pouco mais clara desse aumento ao longo do tempo, que seria mais bem apresentado e evidenciado se fosse contabilizado o **aumento da população feminina no país**, destacando melhor a gravidade do problema.
 
 Segue novo gráfico readequado:
 
@@ -65,13 +65,13 @@ Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https:/
 
 ![](https://multimidia.gazetadopovo.com.br/media/info/2018/201806/doria/doria-gif-0.png)
 
-   A imagem acima foi uma publicação realizada pelo perfil oficial do PSDP no dia 29/05/2018 enquanto estava ocorrendo as campanhas políticas para governador do estado de São Paulo. Ao analisarmos o gráfico, é possível indentificar pontos inadequados e que podem influenciar o público de forma equivocada.
-   1) As barras com as porcentagens de favoritismo para ser eleito não condizem com a escala apresentada no eixo Y, onde, por mais que o candidato em questão (João Doria) estivesse de fato com maior porcentagem em relação aos demais candidatos, com 22%, o gráfico representa esse número próximo à 90%, permanecendo inclusive na frente dos 'Votos Branco/Nulo', que representam 40%. Os outros dados também se encontram distoantes de seu valor correto na barra da escala.
-   2) Outro ponto que poderia ser aprimorado são as legendas que indentificam a porcentagem e nome dos participantes, levando em consideração que se encontram custosos a enxergar de forma adequada.
+   A imagem acima foi uma publicação realizada pelo perfil oficial do PSDP no dia 29/05/2018 enquanto estavam ocorrendo as campanhas políticas para governador do estado de São Paulo. Ao analisarmos o gráfico, é possível indentificar **pontos inadequados** que podem **influenciar o público de forma equivocada**.
+   1) **As barras com as porcentagens de favoritismo para ser eleito não condizem com a escala apresentada no eixo Y**, onde, por mais que o candidato em questão (João Doria) estivesse de fato com maior porcentagem em relação aos demais candidatos, com **22%, o gráfico representa esse número próximo à 90%**, permanecendo inclusive na frente dos 'Votos Branco/Nulo', que representam 40% do total. **Os outros dados também se encontram distoantes** de seu valor correto na barra da escala.
+   2) Outro ponto que poderia ser aprimorado são as **legendas** que indentificam a porcentagem e nome dos participantes, levando em consideração que se encontram custosos a enxergar de forma adequada.
 
-   No geral pode ser considerado um gráfico simples de se consertar e o tornar mais funcional:
-   1) Igualando as barras de porcentagens dos votos com a escala apresentada.
-   2) Transformar o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.
+   No geral, esse é um gráfico simples de se consertar. Poderíamos torná-lo mais funcional:
+   **1) Igualando as barras de porcentagens dos votos com a escala apresentada.**
+   **2) Transformando o gráfico de barras vertical em horizontal, assim sendo mais evidente os participantes da pesquisa.**
 
 ![](https://drive.google.com/uc?export=view&id=1HLsalPDbCIarwyMTvEpwkyWcDTNfLt8E)
 
