@@ -32,7 +32,8 @@ Mesmo com o aumento nas taxas percentuais de homicídios de mulheres, como o cre
 
 Segue novo gráfico readequado:
 
-![](images/fc5afe31-f2ee-4ff8-917c-6483eb6fc131.png)
+ ![](https://github.com/user-attachments/assets/8bb11369-04d0-4d66-8085-3b5fd3ad76a3)
+
 
 ***
 
