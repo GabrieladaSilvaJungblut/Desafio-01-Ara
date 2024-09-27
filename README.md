@@ -34,7 +34,6 @@ Segue novo gráfico readequado:
 
  ![](https://github.com/user-attachments/assets/8bb11369-04d0-4d66-8085-3b5fd3ad76a3)
 
-
 ***
 
 ### Exemplo 2
@@ -55,11 +54,6 @@ Segue novo gráfico readequado:
 
 ![image](https://github.com/user-attachments/assets/11b3fab9-51c6-44b0-b74f-43ce43297f02)
 
-  
-  
-<!-- 
-Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/ -->
-
 ***
 
 ### Exemplo 3
@@ -78,8 +72,9 @@ Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https:/
 
 ***
 
-<!--
-Referências:
+*Referências:*
+https://g1.globo.com/politica/noticia/2015/11/503-dos-homicidios-de-mulheres-no-brasil-sao-cometidos-por-familiares.html
+https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/
 https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/05/30/psdb-sp-divulga-grafico-desproporcional-de-doria-e-tira-do-ar-apos-criticas.htm
 https://www1.folha.uol.com.br/poder/2018/05/grafico-mostra-barra-distorcida-de-intencoes-de-voto-em-doria-e-e-retirado-por-psdb.shtml
 https://especiais.gazetadopovo.com.br/eleicoes/2018/pesquisas-eleitorais/ibope/pagina-oficial-psdb-sp-divulga-grafico-distorcido-de-pesquisa-com-doria/
