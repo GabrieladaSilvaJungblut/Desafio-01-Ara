@@ -52,7 +52,8 @@ Segue novo gráfico readequado:
   Em relação às cores, grande parte do gráfico está em tons de azul para representar as grandes porcentagens de bitcoin pertencentes às pequenas porcentagens de endereços. O contrário ocorre na parte inferior dele com os tons de rosa. Apesar de **não complementares**, que seria o ideal para mostrar o contraste na distribuição desigual do bitcoin, as cores escolhidas provocam uma significativa diferenciação visual, porém a fatia referente à "0.00000748% dos endereços têm posse de 0,73% de BTC", na parte inferior do gráfico, tem o tom azul mais escuro e está colocada ao lado das fatias com os tons mais claros de azul, e ainda fica ao lado das fatias cor de rosa, **sem motivo aparente**. Em um primeiro momento ela poderia ser interpretada como um tom de roxo próximo aos tons de rosa que vão escurecendo em sua direção. 
   
   Por fim, a **informação mais importante do gráfico**, a **junção das porcentagens das partes azuis e a das partes em rosa**, escritas em cima e embaixo dos "setores", tem como únicos destaques o tamanho da fonte, o uso da caixa alta e duas flechas que poluem ainda mais a imagem. Muito possivelmente, **o leitor disposto a ler o gráfico todo fique um tempo lendo as porcentagens individuais e depois perceba as informações conjuntas indicadas pelas flechas**, sendo que tudo poderia ser mais simplificado por meio de um gráfico mais efetivo como mostrado a seguir: 
-  
+
+![](file:///C:/Users/DeLL-E6420/Documents/J%C3%BAlia/Faculdade%20J%C3%BAlia/Trabalhos/Gr%C3%A1ficoDesafio01)
   
   
 
