@@ -53,10 +53,10 @@ Segue novo gráfico readequado:
   
   Por fim, a **informação mais importante do gráfico**, a **junção das porcentagens das partes azuis e a das partes em rosa**, escritas em cima e embaixo dos "setores", tem como únicos destaques o tamanho da fonte, o uso da caixa alta e duas flechas que poluem ainda mais a imagem. Muito possivelmente, **o leitor disposto a ler o gráfico todo fique um tempo lendo as porcentagens individuais e depois perceba as informações conjuntas indicadas pelas flechas**, sendo que tudo poderia ser mais simplificado por meio de um gráfico mais efetivo como mostrado a seguir: 
 
-![](file:///C:/Users/DeLL-E6420/Documents/J%C3%BAlia/Faculdade%20J%C3%BAlia/Trabalhos/Gr%C3%A1ficoDesafio01)
-  
-  
+![image](https://github.com/user-attachments/assets/11b3fab9-51c6-44b0-b74f-43ce43297f02)
 
+  
+  
 <!-- 
 Referências: https://howmuch.net/articles/bitcoin-wealth-distribution e https://getdolphins.com/blog/the-worst-graphs-of-2017/ -->
 
